@@ -1,0 +1,61 @@
+h1 {
+color: #248f24;
+}
+a {
+color: #248f24
+}
+span {
+color: #248f24
+}
+h3 {
+color: #248f24
+}
+#tabbar {
+background-image: url(http://img.fotocommunity.com/cloud-panorama-56fa2914-7bca-4090-8549-58adc52405f9.jpg?height=500);
+}
+#color {
+	color: black;
+	font-weight: bolder; 
+	font-size: 40px
+}
+#* {
+color: #248f24
+} 
+
+img {
+	padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+#small {
+	font-size: 18px;
+	color: black;
+	font-weight: bolder;
+}
+
+/*<div class="container">
+    <div style="float:left;width:49%">
+        <img src="http://www.crainsdetroit.com/apps/pbcsi.dll/storyimage/CD/20160306/NEWS/303069994/H1/0/Renewable-Energy-graphic.jpg?MaxW=880&v=201411210943">
+    </div>
+    <div style="float:right;width:49%">
+        <img src="http://www.solaripedia.com/images/large/334.jpg">
+    </div>
+</div>*/
+
+
+#problem, #solution, #benefits {
+	font-size: 18px
+}
+h1 {
+	font-size: 60px;
+}
+h2 {
+	font-size: 40px;
+}
+hr {
+	border: 1px solid gray;
+}
+
+h2 {
+	color: #248f24
+}

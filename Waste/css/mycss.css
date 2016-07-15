@@ -1,0 +1,46 @@
+h1 {
+	color: #663300;
+	font-size: 60px ;
+}
+a {
+	color: #663300;
+	
+}
+h2 {
+	color: #663300;
+	font-size: 40px;
+}
+#boldfont {
+	font-weight: bold;
+}
+#carrot {
+	font-style: italic;
+	font-size: 17px;
+}
+#larger {
+	font-size: 17px;
+}
+#tabbar {
+	background-image: url("http://img.fotocommunity.com/cloud-panorama-56fa2914-7bca-4090-8549-58adc52405f9.jpg?height=500");
+}
+#color {
+	color: black;
+	font-weight: bolder;
+	font-size: 40px;
+}
+.carouselimage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#small {
+	color: black;
+	font-weight: bolder;
+	font-size: 18px;
+}
+#line {
+	size: 60px;
+}
+hr {
+	border: 1px solid gray;
+}

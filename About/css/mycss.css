@@ -1,0 +1,43 @@
+h1 {
+color: #005580
+font-weight: bolder;
+font-size: 60px
+}
+
+
+
+h3 {
+color:  #005580;
+font-size: 40px
+}
+
+
+
+
+
+#tabbar { 
+background-image: url("http://img.fotocommunity.com/cloud-panorama-56fa2914-7bca-4090-8549-58adc52405f9.jpg?height=500")
+}
+
+
+#color {
+	color: black;
+	font-weight: bolder;
+	font-size: 40px;
+}
+
+#small {
+	font-size: 18px;
+	color: black;
+	font-weight: bolder;
+}
+
+
+hr {
+	border: 1px solid gray;
+}
+
+h4 {
+	color: #47476b;
+	font-weight: bolder;
+}
